@@ -1,0 +1,15 @@
+  b.yellow-bg{
+    background-color:yellow;
+    text-decoration: underline;
+  }
+  span.gray-bg{
+    background-color:gray;
+  }
+  #year{
+    font-weight: bold;
+    font-style: italic;
+    color:red;
+  }
+  input.gray-bg{
+    background-color:gray;
+  }
